@@ -29,4 +29,3 @@ class UsersController < ApplicationController
                                    :designation)
     end
 end
-end
